@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6E56CF&center=true&vCenter=true&width=520&lines=Hey%2C+I'm+Naveenkumar+%F0%9F%91%8B;Building+AI+safety+tooling;RAG+pipelines+%26+local+LLMs;Backend+engineer+%40+Pando)](https://github.com/naveenkumar-chandrasekar)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6E56CF&center=true&vCenter=true&width=520&lines=Hey%2C+I'm+Naveenkumar+%F0%9F%91%8B;Building+AI+safety+tooling;RAG+pipelines+%26+local+LLMs;Full+stack+engineer+%40+Pando)](https://github.com/naveenkumar-chandrasekar)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=naveenkumar-chandrasekar&color=6E56CF&style=flat-square&label=profile+views)](https://github.com/naveenkumar-chandrasekar)
 
