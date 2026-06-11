@@ -8,21 +8,47 @@
 
 ---
 
-```ts
-const naveenkumar = {
-  role:    "SDE @ Pando · Ex-BYJU'S · Chennai 🇮🇳",
-  focus:   ["LLM guardrails", "RAG systems", "local-first AI"],
-  stack:   {
-    backend:  ["Node.js", "Fastify", "Express", "TypeScript", "Python"],
-    frontend: ["Vue 3", "React", "Vite", "Pinia"],
-    ai:       ["Ollama", "Claude", "OpenAI", "pgvector", "RAG"],
-    data:     ["PostgreSQL", "MongoDB", "Drizzle ORM"],
-    infra:    ["Docker", "AWS", "GitHub Actions", "Datadog"],
-  },
-  npm:     "llm-guardrails",
-  writing: "naveenkumar-c.medium.com",
-};
-```
+**Full-stack engineer @ Pando · Ex-BYJU'S · Chennai 🇮🇳**  
+Building LLM guardrails, RAG pipelines, and local-first AI tools.
+
+---
+
+**Languages & Runtimes**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+**Frontend**
+
+![Vue](https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+**Backend**
+
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+
+**AI / LLM**
+
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Infra & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-web-services&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
 
 ---
 
