@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6E56CF&center=true&vCenter=true&width=520&lines=Hey%2C+I'm+Naveenkumar+%F0%9F%91%8B;Building+AI+safety+tooling;RAG+pipelines+%26+local+LLMs;Full+stack+engineer+%40+Pando)](https://github.com/naveenkumar-chandrasekar)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6E56CF&center=true&vCenter=true&width=520&lines=Hey%2C+I'm+Naveenkumar+%F0%9F%91%8B;Building+AI+safety+tooling;RAG+pipelines+%26+local+LLMs;Full+stack+engineer+%40+Pando)](https://github.com/naveenkumar-chandrasekar)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=naveenkumar-chandrasekar&color=6E56CF&style=flat-square&label=profile+views)](https://github.com/naveenkumar-chandrasekar)
 
@@ -57,7 +57,7 @@ npm install llm-guardrails
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naveenkumar-chandrasekar&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=6E56CF&icon_color=6E56CF&text_color=c9d1d9)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naveenkumar-chandrasekar&layout=compact&hide_border=true&bg_color=0d1117&title_color=6E56CF&text_color=c9d1d9)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=naveenkumar-chandrasekar&hide_border=true&background=0d1117&ring=6E56CF&fire=6E56CF&currStreakLabel=6E56CF&sideLabels=c9d1d9&dates=c9d1d9&sideNums=c9d1d9&currStreakNum=c9d1d9)
+![Streak](https://streak-stats.demolab.com/?user=naveenkumar-chandrasekar&hide_border=true&background=0d1117&ring=6E56CF&fire=6E56CF&currStreakLabel=6E56CF&sideLabels=c9d1d9&dates=c9d1d9&sideNums=c9d1d9&currStreakNum=c9d1d9)
 
 </div>
 
@@ -65,7 +65,7 @@ npm install llm-guardrails
 
 ## Writing
 
-Backend systems, databases, and DevOps on Medium → [naveenkumar-c.medium.com](https://naveenkumar-c.medium.com)
+Full-stack engineering, databases, and DevOps on Medium → [naveenkumar-c.medium.com](https://naveenkumar-c.medium.com)
 
 Topics: Redis · Docker · PostgreSQL · OpenID / OAuth / SAML
 
